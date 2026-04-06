@@ -1,2 +1,2 @@
 <?php
-echo "Hoy es " . date(Y-m-d : H i s);
+echo "Hoy es " . date("Y-m-d : H i s");
